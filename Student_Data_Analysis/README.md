@@ -1,5 +1,5 @@
 
-# Project Name
+# Project Description
 This project is a Data Analysis of Students Results and Cosumption of alcohol by students.
 
 

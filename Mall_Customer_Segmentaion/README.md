@@ -1,6 +1,6 @@
 
-# Project Name
-This Project is a Segementaion of mall customers into different groups based upon their 'age' and 'income' using K Means Clustering Algorithm.
+# Project Description
+This Project is based on Unsupervised Learning which is used for Segementation of mall customers into different groups based upon their 'age' and 'income' using K Means Clustering Algorithm.
 
 ### Methods Used
 * Feature Engineering

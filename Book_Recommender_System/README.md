@@ -1,6 +1,6 @@
 
-# Project Name
-This project is a Book Recommender Sytem which recommends books to the user:-<br/>
+# Project Description
+This project is a Recommender Sytem which recommends books to the user:-<br/>
 Based on
 * 1.Polularity:- Correlation
 * 2.Colaborative Filering:- KNN
