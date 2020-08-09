@@ -32,16 +32,14 @@ You can check  out the project and implementation of Machine Learning Methods on
 ## Clustering
 |__PROJECT__|__Content__|__REPO__|
 |-|-|-|
-|`Mall Customer Segmentaion`|`Regression`, `FeedForward NN`, `Cnn`, `Gans`|[Repository](Mall_Customer_Segmentaion)|
-| | | | |
-|`Cusomer Analytics`|`Regression`, `FeedForward NN`, `Cnn`, `PCA`|[Repository](Cusomer_Analytics)|
+|`Mall Customer Segmentaion`|`Clustering`, `KMeans`|[Repository](Mall_Customer_Segmentaion)|
 | | | | |
 
 
 ## Recommender System
 |__PROJECT__|__Content__|__REPO__|
 |-|-|-|
-|`Book Recommender System`|`Regression`, `FeedForward NN`, `Cnn`,|[Repository](Book_Recommender_System)|
+|`Book Recommender System`|`Recommender System`, `Collaborative-Filtering`, `Content-Based`,|[Repository](Book_Recommender_System)|
 | | | | |
 
 
@@ -49,4 +47,6 @@ You can check  out the project and implementation of Machine Learning Methods on
 |__PROJECT__|__Content__|__REPO__|
 |-|-|-|
 |`Student Data Analysis`|`Data Analysis`,`Data Visualisation`|[Repository](Student_Data_Analysis)|
+| | | | |
+|`Cusomer Analytics`|`Predictive Modeling`, `KMeans`, `PCA`|[Repository](Cusomer_Analytics)|
 | | | | |
