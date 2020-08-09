@@ -8,7 +8,7 @@ You can check  out the project and implementation of Machine Learning Methods on
 
 ## Regression
 |__PROJECT__|__Content__|__REPO__|
-|-|-|-|-|
+|-|-|-|
 |`Bike Rental Demand Prediction`|`scikit-learn`, `Regression`|[Repository](Bike_Rental_Demand_Prediction)|
 | | | | |
 |`Car Price Prediction`|`Regression`, `scikit-learn`|[Repository](Car_Price_Prediction)|
@@ -18,7 +18,7 @@ You can check  out the project and implementation of Machine Learning Methods on
 
 ## Classification
 |__PROJECT__|__Content__|__REPO__|
-|-|-|-|-|
+|-|-|-|
 |`Amazon Reviews Sentimental Analysis`|`NLP`, `Sentimental Analysis`|[Repository](Amazon_Sentimental_Analysis)|
 | | | | |
 |`Credit Card Fraud Detection`|`Classification`, `Imbalanced Dataset`, `scikit-learn`|[Repository](Credit_Card_Fraud_Detection)|
@@ -31,7 +31,7 @@ You can check  out the project and implementation of Machine Learning Methods on
 
 ## Clustering
 |__PROJECT__|__Content__|__REPO__|
-|-|-|-|-|
+|-|-|-|
 |`Mall Customer Segmentaion`|`Regression`, `FeedForward NN`, `Cnn`, `Gans`|[Repository](Mall_Customer_Segmentaion)|
 | | | | |
 |`Cusomer Analytics`|`Regression`, `FeedForward NN`, `Cnn`, `PCA`|[Repository](Cusomer_Analytics)|
@@ -40,13 +40,13 @@ You can check  out the project and implementation of Machine Learning Methods on
 
 ## Recommender System
 |__PROJECT__|__Content__|__REPO__|
-|-|-|-|-|
+|-|-|-|
 |`Book Recommender System`|`Regression`, `FeedForward NN`, `Cnn`,|[Repository](Book_Recommender_System)|
 | | | | |
 
 
 ## Data Analysis
 |__PROJECT__|__Content__|__REPO__|
-|-|-|-|-|
+|-|-|-|
 |`Student Data Analysis`|`Data Analysis`,`Data Visualisation`|[Repository](Student_Data_Analysis)|
 | | | | |
